@@ -28,6 +28,7 @@ Applied Ecomomics, Environmental Economics, Policy Impact Evaluation, Integrated
 ## Research Experience
 
 *Graduate Research, North Carolina State University, Raleigh, NC*
+
 `Jan 2022 - Present` Baker Lab for Resource Economics and Sustainability 
 
 `Aug 2021 - Present` Department of Agricultural and Resource Economics
