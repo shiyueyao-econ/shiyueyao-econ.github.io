@@ -19,27 +19,27 @@ Applied Ecomomics, Environmental Economics, Policy Impact Evaluation, Integrated
 ## Education
 
 `Aug 2019 - Expected May 2025`
-Ph.D. in Economics, North Carolina State University, Raleigh, NC
+*Ph.D. in Economics, North Carolina State University, Raleigh, NC*
 
 `Sep 2015 - May 2019`
-BS. in Energy Economics，Beihang University, Beijing China
+*BS. in Energy Economics，Beihang University, Beijing China*
 
 
 ## Research Experience
 
-Graduate Research, North Carolina State University, Raleigh, NC
+*Graduate Research, North Carolina State University, Raleigh, NC*
 `Jan 2022 - Present` Baker Lab for Resource Economics and Sustainability 
 
 `Aug 2021 - Present` Department of Agricultural and Resource Economics
 
 
-Undergraduate Research Assistant, Beihang University, Beijing China
+*Undergraduate Research Assistant, Beihang University, Beijing China*
 
 `Apr 2018 - Jun 2018` School of Economics and Management
 
 ## Teaching Experience
 
-North Carolina State University, Raleigh, NC
+*North Carolina State University, Raleigh, NC*
 
 `Aug 2021 - present` Independent Instructor for ARE 201 
 
@@ -47,7 +47,7 @@ North Carolina State University, Raleigh, NC
 
 `Jan 2020 - May 2020` Tutor for EC 301
 
-Beihang University, Beijing China
+*Beihang University, Beijing China*
 
 `Sep 2018 - Jan 2019` Teaching Assistant for Undergraduate level Environmental Economics
 
