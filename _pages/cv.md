@@ -26,7 +26,7 @@ __BS. in Energy Economics，Beihang University, Beijing China__
 
 
 ## Research Experience
-===
+
 __Graduate Research, North Carolina State University, Raleigh, NC__
 
 `Jan 2022 - Present` Baker Lab for Resource Economics and Sustainability 
