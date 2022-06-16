@@ -8,52 +8,82 @@ redirect_from:
 ---
 
 {% include base_path %}
+layout: cv
+title: Shiyue Yao's CV
+---
+# Shiyue Yao
+Ph.D. student in economics 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### Research interests
+Applied Ecomomics, Environmental Economics, Policy Impact Evaluation, Integrated Assessment Modeling in CLimate Change Mitigation and Adaptation.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+## Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+`Aug 2019 - Expected May 2025`
+__Ph.D. in Economics, North Carolina State University, Raleigh, NC__
 
-Publications
+`Sep 2015 - May 2019`
+__BS. in Energy Economics，Beihang University, Beijing China__
+
+
+## Research Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+__Graduate Research, North Carolina State University, Raleigh, NC__
+
+`Jan 2022 - Present` Baker Lab for Resource Economics and Sustainability 
+
+`Aug 2021 - Present` Department of Agricultural and Resource Economics
+
+
+__Undergraduate Research Assistant, Beihang University, Beijing China__
+
+`Apr 2018 - Jun 2018` School of Economics and Management
+
+## Teaching Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+__North Carolina State University, Raleigh, NC__
+
+`Aug 2021 - present` Independent Instructor ARE 201 
+
+`Aug 2020 - May 2021` Lab Insturctor EC 202
+
+`Jan 2020 - May 2020` Tutor EC 301
+
+__Beihang University, Beijing China__
+
+`Sep 2018 - Jan 2019` Teaching Assistant 
+
+
+## Industry Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+`Nov 2018 - Jan 2019` Analyst Intern __Department of Emission Reduction Investment, GreenTech Group China__
+
+`May 2018 - Jul 2018` Board Secretary Intern __Beijing Tsing Yun Energy Technology Co., Ltd.__
+
+## Skills
 ======
-* Currently signed in to 43 different slack teams
+
+`Languages and Tools` R, Stata, SAS, SPSS, MATLAB, EViews, GAMS, Tableau, Python, LaTeX
+
+`Soft Skills` Teaching, Leadership, Writing, Public Speaking, Time Management
+
+
+## Publications
+======
+Yao, S., Yu, X., Yan, S., & Wen, S. (2021). Heterogeneous emission trading schemes and green innovation.
+Energy Policy, 155, 112367.
+
+## Awards
+======
+• Outstanding Graduate, BUAA, May 2019
+
+• Honorable Mentioned in 2017 Mathematical Contest in Modeling, COMAP, Apr 2017
+
+• Outstanding Student Leader, BUAA, Jan 2016
+
+<!-- ### Footer
+
+Last updated: June 2022 -->
+
+
