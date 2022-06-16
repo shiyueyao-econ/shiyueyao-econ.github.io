@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shiyue Yao"
   avatar           : "ShiyueYao Headshot.jpg"
   bio              : "Ph.D. Student in Environmental Economics"
   location         : "Raleigh, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=G4BQC4EAAAAJ&hl=en&oi=ao"
   email            : "syao6@ncsu.edu"
   researchgate     : "https://www.researchgate.net/profile/Shiyue-Yao-2"
