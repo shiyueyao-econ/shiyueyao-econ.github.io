@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-layout: cv
-title: Shiyue Yao's CV
----
+
 # Shiyue Yao
 Ph.D. student in economics 
 
@@ -19,7 +17,7 @@ Applied Ecomomics, Environmental Economics, Policy Impact Evaluation, Integrated
 
 
 ## Education
-===
+
 `Aug 2019 - Expected May 2025`
 __Ph.D. in Economics, North Carolina State University, Raleigh, NC__
 
