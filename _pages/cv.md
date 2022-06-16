@@ -55,9 +55,9 @@ __Beihang University, Beijing China__
 
 ## Industry Experience
 
-`Nov 2018 - Jan 2019` Analyst Intern __Department of Emission Reduction Investment, GreenTech Group China, Beijing, China__
+`Nov 2018 - Jan 2019` Analyst Intern **Department of Emission Reduction Investment, GreenTech Group , Beijing, China**
 
-`May 2018 - Jul 2018` Board Secretary Intern __Beijing Tsing Yun Energy Technology Co., Ltd., Beijing, China__
+`May 2018 - Jul 2018` Board Secretary Intern **Beijing Tsing Yun Energy Technology Co., Ltd., Beijing, China**
 
 ## Skills
 
