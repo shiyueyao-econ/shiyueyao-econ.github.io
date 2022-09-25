@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
 
 ## North Carolina State University	Raleigh, NC
 * Independent Instructor, EC 201 Principles in Microeconomics (Fall 2022)
@@ -16,7 +15,4 @@ author_profile: true
 * Teaching Assistant, Intermediate Environmental Economics (Fall 2018)	
 
 
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
 {% endfor %}
