@@ -212,13 +212,13 @@ defaults:
   # _experience
   - scope:
       path: ""
-      type: experiene
+      type: experience
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  
+ 
   # _teaching
   - scope:
       path: ""
