@@ -19,6 +19,3 @@ author_profile: true
 
 `Apr 2018 - Jun 2018` School of Economics and Management
 
-{% endif %}
-
-{% endfor %}
