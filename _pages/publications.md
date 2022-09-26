@@ -8,4 +8,3 @@ Yao, S., Yu, X., Yan, S., & Wen, S. (2021). Heterogeneous emission trading schem
 
 
 
-{% endfor %}
