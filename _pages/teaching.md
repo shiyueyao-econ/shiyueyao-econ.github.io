@@ -15,4 +15,4 @@ author_profile: true
 * Teaching Assistant, Intermediate Environmental Economics (Fall 2018)	
 
 
-{% endfor %}
+
