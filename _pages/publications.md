@@ -1,13 +1,11 @@
 ---
-layout: archive
+layout: post
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Yao, S., Yu, X., Yan, S., & Wen, S. (2021). Heterogeneous emission trading schemes and green innovation. Energy Policy, 155, 112367.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=G4BQC4EAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 
 {% endfor %}
