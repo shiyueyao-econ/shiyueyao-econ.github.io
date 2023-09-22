@@ -13,6 +13,8 @@ redirect_from:
 
 `Aug 2019 - Expected May 2025`
 *Ph.D. in Economics, North Carolina State University, Raleigh, NC*
+`Aug 2019 - May 2021`
+*M.S. in Economics, North Carolina State University, Raleigh, NC*
 
 `Sep 2015 - May 2019`
 *BS. in Energy Economics，Beihang University, Beijing China*
@@ -24,6 +26,7 @@ redirect_from:
 
 
 ## Work Experience
+`Jun 2023 - Aug 2023` Economist Intern, *Amazon.com, Seattle, WA*
 
 `Nov 2018 - Jan 2019` Analyst Intern *Department of Emission Reduction Investment, GreenTech Group , Beijing, China*
 
@@ -34,6 +37,6 @@ redirect_from:
 
 <!-- ### Footer
 
-Last updated: June 2022 -->
+Last updated: Sep 2023 -->
 
 
